@@ -1,4 +1,4 @@
-
+![](https://www.iscistech.in/image/crm-banner-iscistech-business-solution-india.jpg)
 # CRM -  Customer Relationship Management
 
 CRM Analytics allows to express the communication or interaction with customers with visual techniques and to bring them into a traceable form with various KPIs and follow them.
