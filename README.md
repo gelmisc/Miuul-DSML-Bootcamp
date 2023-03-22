@@ -2,6 +2,8 @@
 
 ![enter image description here](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*FdbMB5KDH6OjR86G.jpg)
 
+> **First of all, this data repository consists of sub-branches related to data science topics. The Bottcamp program will be updated as it continues. I recommend you to follow or check it out from time to time.**
+
 The field of data science has become quite different from past to present in terms of both content and usage. With the development of fields such as artificial intelligence and machine learning, data science has created a new field for itself in the business world. Companies can increase the efficiency and productivity of their business processes by taking advantage of analytical solutions such as customer insights, data visualization, descriptive and predictive models offered in the field of data science. 
 
 ## Why is data science important?
