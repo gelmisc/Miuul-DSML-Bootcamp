@@ -46,7 +46,7 @@ FLO is a shoe store. We have online and offline shopping data by the company's c
 
 ---
 > I hope I was able to explain the subject in the simplest and most understandable way.
-> If you like the content please **UPVOTE** .
+> If you like the content please give **STAR** .
 > 
 > You can follow me on the following accounts and ask all questions related to this and similar issues.
 > 
